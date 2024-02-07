@@ -29,3 +29,4 @@ This repo is a compilation of some *awesome* Python scripts that automate some b
 |[Attachment Unique Mail] 
 |[Automated calendar] 
 |[Automated emails]  
+|[Algebra Solver]
