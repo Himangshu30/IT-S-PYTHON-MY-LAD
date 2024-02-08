@@ -3,7 +3,7 @@
 
 ## Contents:
 
-- [Awesome Python Scripts :sunglasses:    ](#awesome-python-scripts-sunglasses----)
+- [Awesome Python Scripts :sunglasses:    ]
   - [Contents:](#contents)
   - [What is this repo?](#what-is-this-repo)
   - [What do we have:](#what-do-we-have)
@@ -30,3 +30,6 @@ This repo is a compilation of some *awesome* Python scripts that automate some b
 |[Automated calendar] 
 |[Automated emails]  
 |[Algebra Solver]
+|[Battery_notification]
+|[Better_CSV_Storage]
+|[Bitcoin price GUI]
