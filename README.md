@@ -163,6 +163,12 @@ This repo is a compilation of some *awesome* Python scripts that automate some b
     - `python -m venv env`
     - `source env\bin\activate`
     - `pip install -r requirements.txt`
+ 
+- - How to create `requirements.txt` file
+            - `cd <your_script_dir>`
+            - Activate your local virtual environment
+                - `source env\bin\activate`
+            - `pip freeze > requirements.txt
 
 - Run the script :)
 
