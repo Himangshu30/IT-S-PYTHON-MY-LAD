@@ -9,7 +9,7 @@
   - [What do we have:](#what-do-we-have)
   - [How to use:](#how-to-use)
   
-    - [Steps required to follow before adding any script](#steps-required-to-follow-before-adding-any-script)
+  
 - [If you like the project:](#if-you-like-the-project)
 - [Want to connect with me?](#want-to-connect-with-me)
 
@@ -170,4 +170,4 @@ Remember to star the repo if you love the scripts~ :wink:
 # If you like the project:
 - Star this Repo - [Awesome Python Scripts](https://github.com/Himangshu30/IT-S-PYTHON-MY-LAD)
 
-- Follow me on GitHub - [Himangshu Sarkar](https://github.com/hastagAB)
+- Follow me on GitHub - [https://github.com/Himangshu30]
