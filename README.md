@@ -172,7 +172,7 @@ This repo is a compilation of some *awesome* Python scripts that automate some b
 
 - Run the script :)
 
-Remember to star the repo if you love the scripts~ :wink:
+Remember to star the repo if you love the scripts~ :wink:::
 # If you like the project:
 - Star this Repo - [Awesome Python Scripts](https://github.com/Himangshu30/IT-S-PYTHON-MY-LAD)
 
